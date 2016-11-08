@@ -1,23 +1,16 @@
 #Android
-
-###Animation
-- Animation Resource(https://developer.android.com/guide/topics/resources/animation-resource.html)
-
-###Coding Style
+##Coding Style
 - Android (https://source.android.com/source/code-style.html)
 - JSON (https://google.github.io/styleguide/jsoncstyleguide.xml)
 
-###Device Matrics
-- Google Design (https://material.io/devices/)
+##Design
+- Designing for Multiple Screens (https://developer.android.com/training/multiscreen/index.html)
 
-###JSON Handling
-- Gson (https://github.com/google/gson)
+##Libraries
 
-###Image Loading
-- Glide (https://github.com/bumptech/glide)
-
-###Icon
-- Google Desgin (https://material.io/icons/)
+###Debugging
+- LeakCanary (https://github.com/square/leakcanary)
+- Stetho (http://facebook.github.io/stetho/)
 
 ###HTTP Client
 - OkHttp (http://square.github.io/okhttp)
@@ -26,11 +19,32 @@
 - Volley (https://developer.android.com/training/volley/index.html)
 - Retrofit (https://square.github.io/retrofit)
 
-###Debugging
-- LeakCanary (https://github.com/square/leakcanary)
-- Stetho (http://facebook.github.io/stetho/)
+###Image Loading
+- Glide (https://github.com/bumptech/glide)
+
+
+###JSON Handling
+- Gson (https://github.com/google/gson)
 
 ###Location
 - FusedLocation
 (https://developer.android.com/training/location/receive-location-updates.html)
 - GeoIp (https://github.com/seventhmoon/GeoIp-android)
+
+##Resources
+###Animation
+- Animation Resource(https://developer.android.com/guide/topics/resources/animation-resource.html)
+
+###Device Matrics
+- Google Design (https://material.io/devices/)
+
+###Icon
+- Google Desgin (https://material.io/icons/)
+
+
+
+
+
+
+
+
