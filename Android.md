@@ -5,12 +5,17 @@
 - Android (https://source.android.com/source/code-style.html)
 - JSON (https://google.github.io/styleguide/jsoncstyleguide.xml)
 
+###Device Matrics
+- Google Design (https://material.io/devices/)
 
 ###JSON Handling
 - Gson (https://github.com/google/gson)
 
 ###Image Loading
 - Glide (https://github.com/bumptech/glide)
+
+###Icon
+- Google Desgin (https://material.io/icons/)
 
 ###HTTP Client
 - OkHttp (http://square.github.io/okhttp)
