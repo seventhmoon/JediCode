@@ -9,21 +9,19 @@
 ###JSON Handling
 - Gson (https://github.com/google/gson)
 
-
 ###Image Loading
 - Glide (https://github.com/bumptech/glide)
 
+###HTTP Client
+- OkHttp (http://square.github.io/okhttp)
 
 ###HTTP Request
-- OkHttp (http://square.github.io/okhttp)
 - Volley (https://developer.android.com/training/volley/index.html)
 - Retrofit (https://square.github.io/retrofit)
-
 
 ###Debugging
 - LeakCanary (https://github.com/square/leakcanary)
 - Stetho (http://facebook.github.io/stetho/)
-
 
 ###Location
 - FusedLocation
