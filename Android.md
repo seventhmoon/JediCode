@@ -7,6 +7,8 @@
 - Designing for Multiple Screens (https://developer.android.com/training/multiscreen/index.html)
 
 ##Libraries
+###Database
+- Realm (https://realm.io/news/realm-for-android/)
 
 ###Debugging
 - LeakCanary (https://github.com/square/leakcanary)
@@ -21,7 +23,6 @@
 
 ###Image Loading
 - Glide (https://github.com/bumptech/glide)
-
 
 ###JSON Handling
 - Gson (https://github.com/google/gson)
