@@ -11,6 +11,7 @@
 - Realm (https://realm.io/news/realm-for-android/)
 
 ###Debugging
+- Annotations (https://developer.android.com/studio/write/annotations.html)
 - LeakCanary (https://github.com/square/leakcanary)
 - Stetho (http://facebook.github.io/stetho/)
 
