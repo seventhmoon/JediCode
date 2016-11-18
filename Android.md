@@ -5,6 +5,7 @@
 
 ##Design
 - Designing for Multiple Screens (https://developer.android.com/training/multiscreen/index.html)
+- Material UP (https://material.uplabs.com/)
 
 ##Libraries
 ###Database
