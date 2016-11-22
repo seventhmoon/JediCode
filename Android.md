@@ -16,6 +16,9 @@
 - LeakCanary (https://github.com/square/leakcanary)
 - Stetho (http://facebook.github.io/stetho/)
 
+###Flatbuffers
+- Flatbuffers (https://github.com/google/flatbuffers)
+
 ###HTTP Client
 - OkHttp (http://square.github.io/okhttp)
 
