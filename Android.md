@@ -29,6 +29,10 @@
 ###JSON Handling
 - Gson (https://github.com/google/gson)
 
+###Layout
+- Percent Support Library (https://developer.android.com/topic/libraries/support-library/features.html#percent)
+- Flexbox for Android (https://github.com/google/flexbox-layout)
+
 ###Location
 - FusedLocation
 (https://developer.android.com/training/location/receive-location-updates.html)
