@@ -54,12 +54,13 @@
 ###Drawables
 - SVG to VectorDrawable (http://a-student.github.io/SvgToVectorDrawableConverter.Web/)
 
-###GitBook / Website
-- Android third-party 使用心得 (https://www.gitbook.com/book/bng86/android-third-party-/details)
-- Android Studio相见恨晚的操作锦集 (http://www.jianshu.com/p/bc8f6bfe12c6)
-
 ###Icon
 - Google Desgin (https://material.io/icons/)
+
+###Readings
+- Android third-party 使用心得 (https://www.gitbook.com/book/bng86/android-third-party-/details)
+- Android Studio相见恨晚的操作锦集 (http://www.jianshu.com/p/bc8f6bfe12c6)
+- Android Threading (http://www.slideshare.net/cha122977/android-thread-69498591)
 
 ###UI
 - Android Asset Studio (https://romannurik.github.io/AndroidAssetStudio/)
