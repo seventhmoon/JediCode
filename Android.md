@@ -54,8 +54,9 @@
 ###Drawables
 - SVG to VectorDrawable (http://a-student.github.io/SvgToVectorDrawableConverter.Web/)
 
-###GitBook
+###GitBook / Website
 - Android third-party 使用心得 (https://www.gitbook.com/book/bng86/android-third-party-/details)
+- Android Studio相见恨晚的操作锦集(http://www.jianshu.com/p/bc8f6bfe12c6)
 
 ###Icon
 - Google Desgin (https://material.io/icons/)
