@@ -46,7 +46,7 @@
 
 ##Resources
 ###Animation
-- Animation Resource(https://developer.android.com/guide/topics/resources/animation-resource.html)
+- Animation Resource (https://developer.android.com/guide/topics/resources/animation-resource.html)
 
 ###Device Matrics
 - Google Design (https://material.io/devices/)
@@ -56,7 +56,7 @@
 
 ###GitBook / Website
 - Android third-party 使用心得 (https://www.gitbook.com/book/bng86/android-third-party-/details)
-- Android Studio相见恨晚的操作锦集(http://www.jianshu.com/p/bc8f6bfe12c6)
+- Android Studio相见恨晚的操作锦集 (http://www.jianshu.com/p/bc8f6bfe12c6)
 
 ###Icon
 - Google Desgin (https://material.io/icons/)
