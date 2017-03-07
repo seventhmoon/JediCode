@@ -62,6 +62,9 @@
 - Android Studio相见恨晚的操作锦集 (http://www.jianshu.com/p/bc8f6bfe12c6)
 - Android Threading (http://www.slideshare.net/cha122977/android-thread-69498591)
 
+###Tools
+- Methods Count (http://www.methodscount.com)
+
 ###UI
 - Android Asset Studio (https://romannurik.github.io/AndroidAssetStudio/)
 
