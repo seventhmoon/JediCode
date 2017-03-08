@@ -64,6 +64,7 @@
 - Android third-party 使用心得 (https://www.gitbook.com/book/bng86/android-third-party-/details)
 - Android Studio相见恨晚的操作锦集 (http://www.jianshu.com/p/bc8f6bfe12c6)
 - Android Threading (http://www.slideshare.net/cha122977/android-thread-69498591)
+- Android Package / Class / Variable Naming (https://github.com/Blankj/AndroidStandardDevelop)
 
 ###Tools
 - Methods Count (http://www.methodscount.com)
